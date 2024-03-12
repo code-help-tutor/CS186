@@ -1,0 +1,6 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+playerid|namefirst|namelast|salary|yearid
+brownke01|Kevin|Brown|15714286.0|2000
+rodrial01|Alex|Rodriguez|22000000.0|2001
